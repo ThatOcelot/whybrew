@@ -69,9 +69,13 @@ img {
   }
 
   .col-1 {
+    width:50%;
+    float:left;
     text-align:left;
   }
 
   .col-2 {
-    text-align:right;
+    width:50%;
+    float:right;
+    text-align:left;
   }
