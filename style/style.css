@@ -66,3 +66,11 @@ img {
       text-align: left;
     }
   }
+
+  .col-1 {
+    text-align:left;
+  }
+
+  .col-2 {
+    text-align:right;
+  }

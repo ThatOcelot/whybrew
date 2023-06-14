@@ -11,15 +11,15 @@ img {
 }
 
 .topnav {
-    background-color: #000000;
-    overflow: hidden;
-  }
+  background-color: #000000;
+  overflow: hidden;
+}
   
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    display: block;
-    color: #39ff14;
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #39ff14;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -66,4 +66,12 @@ img {
       display: block;
       text-align: left;
     }
+  }
+
+  .col-1 {
+    text-align:left;
+  }
+
+  .col-2 {
+    text-align:right;
   }
