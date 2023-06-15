@@ -68,24 +68,20 @@ img {
     }
   }
 
-  /* Split the screen in half */
 .split {
-  height: 100%;
-  width: 50%;
-  position: fixed;
-  overflow-x: hidden;
+  width: 100%;
+  text-align:left;
+  background-color: #000000;
 }
 
 /* Control the left side */
 .left {
-  left: 0;
-  text-align:left;
-  background-color: #000000;
+  float: left;
+  width: 50%;
 }
 
 /* Control the right side */
 .right {
-  right: 0;
-  text-align:left;
-  background-color: #000000;
+  float: right;
+  width: 50%;
 }
