@@ -77,15 +77,18 @@ img {
   top: 0;
   overflow-x: hidden;
   padding-top: 20px;
-  text-align:left;
 }
 
 /* Control the left side */
 .left {
   left: 0;
+  text-align:left;
+  background-color: #000000;
 }
 
 /* Control the right side */
 .right {
   right: 0;
+  text-align:left;
+  background-color: #000000;
 }
