@@ -69,19 +69,22 @@ img {
 
   .split {
     width: 100%;
-    height:auto;
-    text-align:left;
-    background-color: #000000;
   }
   
   /* Control the left side */
   .left {
     float: left;
     width: 50%;
+    height:auto;
+    text-align:left;
+    background-color: #ffffff;
   }
   
   /* Control the right side */
   .right {
     float: right;
     width: 50%;
+    height:auto;
+    text-align:left;
+    background-color: #ffffff;
   }
